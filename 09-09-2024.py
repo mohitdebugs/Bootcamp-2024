@@ -48,4 +48,4 @@ print('~'*10)
 
 class Too(Exception):
     def __init__(self,arg):
-        self.msg=arg
+        self.msg=arg 
